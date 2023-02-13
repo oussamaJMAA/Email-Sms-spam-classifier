@@ -1,1 +1,1 @@
-# Email-Spam-Classifier-_-SMS-Spam-Classifier-
+##Simple application for email or sms spam detection 
